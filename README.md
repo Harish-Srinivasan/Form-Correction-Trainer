@@ -1,7 +1,6 @@
 # Pose based Form Correction Trainer
 
 - Pose Estimation Module : MediaPipe framework for estimating key points and pose in our video input.
-- Second item
 - Form Verification Module :
     - Angle Evaluation : We calculate the angle between relevant key points depending on the exercise being performed in this method.
     - Machine Learning Approach : K Means Clustering
@@ -19,16 +18,6 @@
 * mediapipe
 * traceback
 * math
-
-## Project Structure:
-
-* main.py
-* Input_data.csv
-* BicepCurl.py
-* Lunges.py
-* PoseUtils.py
-* Model.py
-* CollectData.py
 
 ## Execution Instructions:
 
