@@ -1,5 +1,6 @@
-Required libraries: 
+# Pose based Form Correction Trainer
 
+## Required libraries: 
 
 * numpy
 * pandas
@@ -9,15 +10,7 @@ Required libraries:
 * traceback
 * math
 
-
-Language:
-
-
-* Python: 3.7
-
-
-Project Structure:
-
+## Project Structure:
 
 * main.py
 * Input_data.csv
@@ -27,9 +20,7 @@ Project Structure:
 * Model.py
 * CollectData.py
 
-
-Execution Instructions:
-
+## Execution Instructions:
 
 * For Bicep curl exercise execute command “python main.py bicep_curl” on your terminal/powershell.
 * For lunges exercise execute command “python main.py lunges” on your terminal/powershell
